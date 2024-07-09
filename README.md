@@ -1,4 +1,4 @@
-Full stack software engineer with over 4 years experience working with both mobile and web technologies including Ionic, native android, Flutter, JavaScript, Typescript, NodeJS, PHP, Laravel, ReactJS, NextJS. APIs, Algorithms, and Git. Interested and open to learning new things and an advocate of self-improvement.
+Full stack software engineer with over 5 years experience working with both mobile and web technologies including Ionic, native android, Flutter, JavaScript, Typescript, NodeJS, PHP, Laravel, ReactJS, NextJS. APIs, Algorithms, and Git. Interested and open to learning new things and an advocate of self-improvement.
 
 ## PS:
 - 👀 I’m interested in all things tech.
