@@ -5,7 +5,7 @@ Full stack software engineer with over 6 years of experience working with mobile
 - 🌱 I’m currently expanding my skillset learning everything I can get my hands on.
 - 💞️ I’m looking to work on products with real-world impacts and collaborate on open-source projects.
 <!-- - 📫 How to reach me ... -->
-- You can reach me at olurodemusab@gmail.com
+- You can reach me at me@musab.dev
 
 <!---
 musab-olurode/musab-olurode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
